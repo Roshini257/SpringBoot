@@ -15,5 +15,8 @@ public class Submissions {
     private String technology;
     private String vendorName;
 
+    public void setId(String id) {
+    }
+
     // Generate getters and setters
 }
